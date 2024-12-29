@@ -1,6 +1,8 @@
 # Uyghur Speech Models
 
-## Check out this [demo](https://huggingface.co/spaces/ixxan/uyghur-speech-models) to try the models from this repository.
+Check out this [demo](https://huggingface.co/spaces/ixxan/uyghur-speech-models) to try the models from this repository.
+
+---
 
 Notebooks in this repo containing model fine-tuning code:
 * **Fine_Tune_MMS_ASR_Uyghur**: [Meta-MMS-ASR](https://huggingface.co/facebook/mms-1b-all) fine-tuned for Uyghur with [THUYG20](https://openslr.org/22), [Common Voice](https://commonvoice.mozilla.org), and [UQSpeechDataset](https://github.com/gheyret/UQSpeechDataset). The resulting model can be accessed [here](https://huggingface.co/ixxan/wav2vec2-large-mms-1b-uyghur-latin).
